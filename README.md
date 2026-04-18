@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 AI-Powered Chest X-Ray CDSS
 
 ![Next.js](https://img.shields.io/badge/Next.js-15.3-blue)
@@ -359,3 +360,7 @@ This semi-graduation project was completed in less than one week, showcasing the
 ---
 
 Created with ❤️ for improving chest X-ray diagnostics and supporting healthcare professionals
+=======
+# cdss-xray-ai
+n AI-based Clinical Decision Support System (CDSS) for X-ray image analysis that assists healthcare professionals by detecting abnormalities and providing diagnostic insights using deep learning.
+>>>>>>> a8c398dd1c084ef92dd8336d5243f791143618b3
